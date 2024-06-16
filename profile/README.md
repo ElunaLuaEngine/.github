@@ -1,4 +1,4 @@
-### [![Eluna](profile/Eluna.png)](https://github.com/ElunaLuaEngine/Eluna)
+### [![Eluna](https://raw.githubusercontent.com/ElunaLuaEngine/.github/main/profile/Eluna.png)](https://github.com/ElunaLuaEngine/Eluna)
 
 ## About
 
